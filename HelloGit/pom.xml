@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.renatodelgaudio.sandbox</groupId>
 	<artifactId>HelloGit</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>HelloGit</name>
 	<description>Playing around</description>
 	<properties>
@@ -18,7 +18,7 @@
 	</issueManagement>
 	<scm>
 		<developerConnection>scm:git:git@github.com:renatodelgaudio/sandbox.git</developerConnection>
-	  <tag>HelloGit-1.0.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<build>
