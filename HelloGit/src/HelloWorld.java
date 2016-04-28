@@ -8,6 +8,9 @@ public class HelloWorld {
 		System.out.println("Hello GitHub");
 		// Some change
 
+
+		// Additional change to test rebase feature
+
 	}
 
 }
