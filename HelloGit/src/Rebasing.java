@@ -4,5 +4,8 @@
 public class Rebasing {
     public static void rebase(){
         // This just to test a new file with rebase option
+
+
+        // A test now with merge to show the difference
     }
 }
